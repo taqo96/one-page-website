@@ -1,0 +1,103 @@
+.container {
+  width:1366px;
+  display: block;
+  margin: 0 auto;
+}
+section.topbar {
+  background-color: #d6976d;
+  color: #d38989;
+  text-align: right;
+  padding-top: 40px;
+}
+
+div.container {
+	text-align: right;
+	font-size: 
+}
+div.logo {
+	position: absolute;
+	top: 0px;
+	left: 590px;
+
+}
+div.banner {
+	text-align: center;
+}
+section.button {
+	float: left;
+}
+form.Search {
+	text-align: center;
+	border-color: #111111;
+	border-style: solid;
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+form.Search-float-right {
+	padding-top: 40px;
+	border-style: solid;
+	text-align: center;
+}
+section.navbar {
+	padding: 30px 75px;
+	text-align: center;
+	color: #d6976d;
+}
+nav ul li {
+	display: inline-block;
+	text-align: center;
+	padding: 60px;
+	padding-top: 15px;
+
+}
+.packages h2 {
+	font-size: 35px;
+	padding: 30px 595px;
+	text-align: center;
+	color: #ffffff
+
+}
+section.packages {
+	background-color: #d6976d;
+}
+.featured-articles {
+	display: inline-block;
+	padding: 15px 60px;
+	background-color: 
+}
+
+.featured-image1 {
+padding: 30px 160px;
+display: inline-block;
+}
+.featured-image2 {
+padding: 30px 160px;
+display: inline-block;
+}
+.featured-image3 {
+padding: 30px 160px;
+display: inline-block;
+}
+h3.subtitle1 {
+	display: inline-block;
+	padding: 30px 215px;
+	font-size: 33px;
+	color: #ffffff
+}
+h3.subtitle2 {
+	display: inline-block;
+	padding: 30px 215px;
+	font-size: 33px;
+	color: #ffffff
+}
+h3.subtitle3 {
+	display: inline-block;
+	padding: 30px 190px;
+	font-size: 33px;
+	color: #ffffff
+}
+div.article1 {
+	text-align: justify;
+}
